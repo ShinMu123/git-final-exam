@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, this is Tran Ngoc Vinh
+=======
+Xin chào, tôi là Tran NGoc Vinh
+Conflict resolved on 15/10/2025
+
