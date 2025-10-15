@@ -1,3 +1,5 @@
 - Git rất hữu ích.
 - Giúp quản lý phiên bản.
 - Dễ dàng hợp tác nhóm.
+- Giúp học sinh rèn kỹ năng lập trình.
+- Dễ dàng phục hồi lỗi.
