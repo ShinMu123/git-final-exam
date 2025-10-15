@@ -1,0 +1,10 @@
+Giới thiệu:
+Tôi là Tran Ngoc Vinh, sinh viên CNTT
+Sở thích:
+1. Lập trình
+2. Chơi game
+3. Đọc sách
+Kỹ năng:
+1. C#
+2. HTML/CSS
+3. Git
