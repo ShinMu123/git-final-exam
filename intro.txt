@@ -8,3 +8,10 @@ Kỹ năng:
 1. C#
 2. HTML/CSS
 3. Git
+
+Kế hoạch học tập:
+- Ôn Git mỗi ngày.
+- Làm bài tập lập trình.
+- Học ASP.NET.
+- Thực hành C#.
+- Tìm hiểu SQL Server.
